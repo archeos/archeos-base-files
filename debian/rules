@@ -13,7 +13,7 @@ endif
 
 VENDORFILE = debian
 
-VERSION = $(shell cat etc/debian_version)
+VERSION = $(shell cat etc/archeos_version)
 
 build:
 	touch build
