@@ -1,7 +1,12 @@
 
-The programs included with the Debian #OSNAME# system are free software;
+The programs included with the ArcheOS #OSNAME# system are free software;
 the exact distribution terms for each program are described in the
 individual files in /usr/share/doc/*/copyright.
 
-Debian #OSNAME# comes with ABSOLUTELY NO WARRANTY, to the extent
+ArcheOS #OSNAME# comes with ABSOLUTELY NO WARRANTY, to the extent
 permitted by applicable law.
+
+Welcome to ArcheOS. You can obtain help pointing your browser to 
+file:///usr/share/archeos-manual/html/index.html or typing man archeos, 
+man archeos-applications or man archeos tutorial.
+
