@@ -1,8 +1,9 @@
-base-files (5.0archeos1) theodoric; urgency=medium
+base-files (1:5.0archeos2) theodoric; urgency=medium
 
   * updated conffiles
+  * New version number
 
- -- Fabrizio Furnari <fab.furnari@gmail.com>  Tue, 21 Jan 2014 11:42:03 +0100
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Tue, 21 Jan 2014 14:33:40 +0100
 
 base-files (5.0archeos0) theodoric; urgency=medium
 
