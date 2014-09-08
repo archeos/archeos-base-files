@@ -1,3 +1,13 @@
+base-files (1:5.0archeos4) theodoric; urgency=medium
+
+  * Added readme
+  * simple test
+  * using lsb_release to override
+  * wrong filename fixed
+  * changed rules to use the correct vendorfile in /etc/dpkg/origins/default
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Mon, 08 Sep 2014 13:06:48 +0200
+
 base-files (1:5.0archeos3) theodoric; urgency=medium
 
   * Closes archeos/ArcheOS #66
