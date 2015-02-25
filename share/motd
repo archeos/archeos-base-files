@@ -7,6 +7,5 @@ ArcheOS #OSNAME# comes with ABSOLUTELY NO WARRANTY, to the extent
 permitted by applicable law.
 
 Welcome to ArcheOS. You can obtain help pointing your browser to 
-file:///usr/share/archeos-manual/html/index.html or typing man archeos, 
-man archeos-applications or man archeos tutorial.
+file:///usr/share/archeos-manual/html/index.html or typing man 1 archeos
 
