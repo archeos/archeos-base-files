@@ -1,3 +1,19 @@
+base-files (1:5.0archeos5) theodoric; urgency=medium
+
+  * new upstream version. Fixed typo
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Wed, 25 Feb 2015 17:09:42 +0100
+
+base-files (1:5.0archeos4) theodoric; urgency=medium
+
+  * Added readme
+  * simple test
+  * using lsb_release to override
+  * wrong filename fixed
+  * changed rules to use the correct vendorfile in /etc/dpkg/origins/default
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Mon, 08 Sep 2014 13:06:48 +0200
+
 base-files (7.1wheezy8) stable; urgency=low
 
   * Changed /etc/debian_version to 7.8, for Debian 7.8 point release.
